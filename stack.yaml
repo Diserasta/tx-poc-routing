@@ -1,0 +1,10 @@
+flags: {}
+packages:
+- .
+extra-deps:
+- conduit-1.2.13.1
+- conduit-extra-1.1.17
+- resourcet-1.1.11
+- streaming-commons-0.1.19
+- containers-0.6.0.1
+resolver: lts-12.9
